@@ -11,6 +11,6 @@ matplotlib>=1.4.3
 pandas>=0.19
 sklearn<=1.0.1
 joblib==1.1.0
-imblearn==0.8.1
+imblearn<=0.8.1
 
 
